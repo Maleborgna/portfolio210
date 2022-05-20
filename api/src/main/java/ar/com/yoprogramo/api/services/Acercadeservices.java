@@ -3,7 +3,6 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package ar.com.yoprogramo.api.services.AcercadeServices;
-
 /**
  *
  * @author malen
@@ -44,5 +43,5 @@ public class Acercadeservices {
     }
     
 }
-
+}
 
